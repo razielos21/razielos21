@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🖥️ **Languages**:</p>
+<h3 align="left">🖥️ Languages:</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- ⚙️ **Backend**:</p>
+<h3 align="left">⚙️ Backend:</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">- 🎨 **Frontend**:</p>
+<h3 align="left">🎨 Frontend:</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">- 🗄️ **Databases**:</p>
+<h3 align="left">🗄️ Databases:</h3>
 
 ###
 
@@ -88,11 +88,11 @@
 
 ###
 
-<p align="left">- 🎮 **Other**: Game server development, legacy code modernization, performance optimization</p>
+<h3 align="left">🎮 Other: Game server development, legacy code modernization, performance optimization</h3>
 
 ###
 
-<p align="left">📫 Let's Connect!</p>
+<h3 align="left">📫 Let's Connect!</h3>
 
 ###
 
