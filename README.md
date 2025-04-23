@@ -96,6 +96,6 @@
 
 ###
 
-<h3 align="left">📧 Email: raziel.otik@gmail.com<br>🔗 LinkedIn: https://linkedin.com/in/raziel-otick<br></h3>
+<h3 align="left">📧 Email: raziel.otik@gmail.com<br>🔗 LinkedIn: https://linkedin.com/in/raziel-otick<br>🌐 Portfolio: https://razielotick.com/<br></h3>
 
 ###
